@@ -31,10 +31,10 @@ spring:
   data: 
     neo4j:
       username: neo4j
-      password: neo4j@wankeauto.com
+      password: 123456
       uri: http://192.168.2.169:7474
-  ftp:
-  hostname: 192.168.2.37
+ftp:
+  hostname: 172.18.12.137
   port: 21
   username: wanke
   password: wanke
